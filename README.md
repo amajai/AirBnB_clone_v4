@@ -154,7 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Abdulmajeed Isa - [Github](https://github.com/amajai) / [Twitter](https://www.linkedin.com/in/abdulmajeedai)  
+Abdulmajeed Isa - [Github](https://github.com/amajai) / [LinkedIn](https://www.linkedin.com/in/abdulmajeedai)
+
+Christian Aziba - [Github](https://github.com/zibxto) / [LinkedIn](https://www.linkedin.com/in/christianaziba)
 
 ## License
 Public Domain. No copy write protection. 
